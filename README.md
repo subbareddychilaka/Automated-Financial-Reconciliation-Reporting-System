@@ -1,0 +1,2 @@
+# Automated-Financial-Reconciliation-Reporting-System
+A data-driven financial analytics project designed to automate reconciliation and reporting processes across multi-source financial datasets. The system performs data validation, discrepancy detection, variance analysis, and automated report generation to improve accuracy, transparency, and operational efficiency in financial reporting workflows.
