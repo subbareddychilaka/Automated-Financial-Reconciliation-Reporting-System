@@ -95,13 +95,7 @@ Adding forecast analysis
 Subbareddy Chilaka
 Aspiring Data Analyst | Excel | SQL | Python | Power BI
 
-If you want, I can also give you:
 
-🔹 A more ATS-focused description for resume
-
-🔹 A shorter GitHub description (2–3 lines)
-
-🔹 A more technical version (for analytics recruiters)
 
 Is this conversation helpful so far?
 
